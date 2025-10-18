@@ -1,8 +1,8 @@
 -- Drop the database if it exists
-DROP DATABASE IF EXISTS datawarehouse;
+DROP DATABASE IF EXISTS DataWarehouse;
 
 -- Create the new database
-CREATE DATABASE datawarehouse;
+CREATE DATABASE DataWarehouse;
 
 -- --- IMPORTANT ---
 -- You must now manually connect to the 'datawarehouse' database
